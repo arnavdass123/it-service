@@ -4,13 +4,13 @@
   "main": "index.js",
   "author": "arnav <arnavdass123@gmail.com>",
   "license": "MIT",
-"scripts": {
-  "start":"nodemon router/server.js"
-},
+  "scripts": {
+    "start": "nodemon router/server.js"
+  },
   "dependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
     "express-ejs": "^2.0.0",
-    "nodemon": "2.0.12"
+    "nodemon": "^2.0.16"
   }
 }
